@@ -59,3 +59,5 @@ pyinstaller --noconfirm --onefile --windowed --name "Custom.Registered.Games.for
 5. Follow the instructions in the newly opened Window
 
 Enjoy!
+
+I just discovered that you can just rename games on Discord. So this is now the most useless repo on my GitHub...
