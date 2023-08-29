@@ -19,13 +19,12 @@ pip install -Ur requirements.txt
 
 1. Download the file [`main.py`](https://github.com/SkyeChen-28/Custom-Registered-Games-for-Discord/blob/main/main.py)
 2. To run this script from the command line, enter the following commands:
-
-i. First, you must change the directory to the same folder where you downloaded `main.py`. If you're using Windows, open up Command Prompt (not PowerShell) and type in:
+3. First, you must change the directory to the same folder where you downloaded `main.py`. If you're using Windows, open up Command Prompt (not PowerShell) and type in:
 ```
 cd %USERPROFILE%\Downloads
 ```
 
-ii. Then enter the following command
+4. Enter the following command
 ```
 python main.py
 ```
