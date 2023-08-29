@@ -13,7 +13,7 @@ class CustomNameApp(tk.Tk):
         self.title(self.game_name.get())
         
         # Increase screen size
-        self.geometry("1200x700")
+        self.state('zoomed')
         
         # Area where all frames will be placed
         container = ttk.Frame(self)
